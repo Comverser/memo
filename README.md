@@ -1,4 +1,1 @@
-https://drive.google.com/file/d/1pEkUyju83amuCr8FVdFBUlKh3LXorTvN/view?usp=sharing
-
-
-www.youtube.com/watch?v=V1eYniJ0Rnk 
+https://docs.google.com/presentation/d/e/2PACX-1vStVS501MbJGNw7McmG3fidXhytW05BY7kHZV_o5nZKCI_F6PL-njzWVAMeFpYCPQ/pub?start=false&loop=false&delayms=3000
