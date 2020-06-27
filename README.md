@@ -6,3 +6,6 @@ https://drive.google.com/file/d/1pLPVu4VUPwY0edtSQQtP6X5zgHrH0rEB/view?usp=shari
 
 # funny
 캥거루죽방: https://youtu.be/MMq4RyEBMU8
+
+# office stretching
+https://www.youtube.com/watch?v=MTU4iCDntjs
