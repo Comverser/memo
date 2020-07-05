@@ -9,6 +9,7 @@
 
 # funny
 - 캥거루죽방: https://youtu.be/MMq4RyEBMU8
+## loop
 - 주상욱_구구단코딩: https://www.youtube.com/watch?v=CuOwAqEk348
 
 
