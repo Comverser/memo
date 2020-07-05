@@ -9,6 +9,8 @@ https://docs.google.com/presentation/d/e/2PACX-1vTNE_ZyqGxaJrZzW8pL-U7t1K7GYVH6o
 
 # funny
 캥거루죽방: https://youtu.be/MMq4RyEBMU8
+주상욱_구구단코딩: https://www.youtube.com/watch?v=CuOwAqEk348
+
 
 # office stretching
 https://www.youtube.com/watch?v=MTU4iCDntjs
