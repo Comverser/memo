@@ -7,6 +7,11 @@
 # quiz
 - https://docs.google.com/presentation/d/e/2PACX-1vTNE_ZyqGxaJrZzW8pL-U7t1K7GYVH6ozJZwYAKgJBg4Yrnp_Ghvbn3Alzuh7S4ralKA6FMzBpUhBAL/pub?start=false&loop=false&delayms=3000
 
+# Catch mind
+
+## Movie
+- Inception: https://www.youtube.com/watch?v=eN1KEaFtJyI
+
 # something
 - 캥거루죽방: https://youtu.be/MMq4RyEBMU8
 - asmr_cook: https://www.youtube.com/watch?v=CohxpcMmoJ0
