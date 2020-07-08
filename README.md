@@ -11,6 +11,7 @@
 
 ## Movie
 - Inception: https://www.youtube.com/watch?v=eN1KEaFtJyI
+- 신세계: https://www.youtube.com/watch?v=0-QWdeeH-UA
 
 # something
 - 캥거루죽방: https://youtu.be/MMq4RyEBMU8
