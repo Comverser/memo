@@ -17,7 +17,9 @@
 # something
 - 캥거루죽방: https://youtu.be/MMq4RyEBMU8
 - asmr_cook: https://www.youtube.com/watch?v=CohxpcMmoJ0
-## cli
+- asmr_공사장: https://www.youtube.com/watch?v=5ilwzpTHu2w
+
+## command line interface
  - 공각기동대 키보드: https://1.bp.blogspot.com/-Y3q_RycjCEU/XEp-8qfruSI/AAAAAAAAKuY/dMvS-5q7On8UyZglu-mjr1AcCy2bya0CwCLcBGAs/s1600/8.gif
 ## loop
 - 주상욱_구구단코딩: https://www.youtube.com/watch?v=CuOwAqEk348
