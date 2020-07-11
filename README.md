@@ -1,4 +1,4 @@
-# class_material_distribution
+# course_material_distribution
 - 20_혁신_인공지능_파이썬: https://drive.google.com/drive/folders/1ZdkB30PydvBS8nvOf4ZQ6rWPClYLPh3U?usp=sharing
 - 20_청취_전남대: https://drive.google.com/drive/folders/14oXWnGMtHyJyyXkrnDQmRgEMbgtw4qeb?usp=sharing
 
