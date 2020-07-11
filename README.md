@@ -27,7 +27,8 @@
 ## loop
 - 주상욱_구구단코딩: https://www.youtube.com/watch?v=CuOwAqEk348
 - 냥캣: https://www.youtube.com/watch?v=y_ZHnygLKQU
-
+# deep_learning
+- neural_network: http://playground.tensorflow.org/
 
 
 # office stretching
