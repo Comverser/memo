@@ -1,3 +1,8 @@
+# course_slide
+- python_function: https://docs.google.com/presentation/d/e/2PACX-1vS4qdWt8eXrnF_O8kucFEbMaRLaZYEjK1WUE-_VAncT-OGGAALVuOsb7rwm1mrF09ArV-yQNbOSrYIO/pub?start=false&loop=false&delayms=3000
+- numpy_exercise: https://docs.google.com/presentation/d/e/2PACX-1vTeB7H2uOed71-GDCyUNNeTHShQQ-6TvT5qrBP1IOBizedEuDEqK6Ajkf0UosMjMNNdIL2-yT6tWp_x/pub?start=false&loop=false&delayms=3000
+- pandas: https://docs.google.com/presentation/d/e/2PACX-1vRH5cn9EzQP6MkiZRHLeWV9ay2DVblDjOcE-CthUr8NX6o9B2ebVYsS5HFZ1POffoH24fpDMZi-QR0C/pub?start=false&loop=false&delayms=3000
+
 # course_material_distribution
 - 20_혁신_인공지능_파이썬: https://drive.google.com/drive/folders/1ZdkB30PydvBS8nvOf4ZQ6rWPClYLPh3U?usp=sharing
 - 20_청취_전남대: https://drive.google.com/drive/folders/14oXWnGMtHyJyyXkrnDQmRgEMbgtw4qeb?usp=sharing
