@@ -1,3 +1,7 @@
+# site startup
+- https://www.cloudways.com/blog/best-startups-watch-out/
+- https://disfold.com/top-ai-startups/
+
 # my_material
 - https://drive.google.com/drive/folders/1uPdGLjeq78q9Ijmhh7pgMfACX0Md01ze?usp=sharing
 # share
