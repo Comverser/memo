@@ -1,13 +1,3 @@
-# cnn -> vision vs. rnn -> nlp
-- https://www.google.com/search?q=computer+vision+market+size&newwindow=1&sxsrf=ALeKk02uwLv6BKNP8yaB5Euk3YMWycITAA:1596510043867&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjB1a2wx4DrAhVOVN4KHdYtARkQ_AUoAXoECA0QAw&cshid=1596510125612546&biw=1920&bih=1009#imgrc=h9ZwVjpxCvDGAM
-- https://www.quora.com/Is-computer-vision-advancing-more-rapidly-than-natural-language-processing-NLP-right-now-If-so-why#:~:text=may%20APPEAR%20that-,Computer%20Vision%20is%20evolving%20rapidly%20than%20NLP%20because%20%3A,solved%20with%20pretty%20good%20accuracy.&text=Contrary%20to%20that%20%2D%20no%20NLP,ubiquitous%20which%20also%20learns%20automatically.
-
-# site startup
-- https://www.cloudways.com/blog/best-startups-watch-out/
-- https://disfold.com/top-ai-startups/
-
-# my_material
-- https://drive.google.com/drive/folders/1uPdGLjeq78q9Ijmhh7pgMfACX0Md01ze?usp=sharing
 # share
 - https://drive.google.com/drive/folders/1UlYPmeiiQvloAatCW1z1AoZvxJ8DhW98?usp=sharing
 
