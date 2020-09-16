@@ -2,7 +2,6 @@
 - https://drive.google.com/drive/folders/1prfdFZLUfXytfgT-2kmq6n-SIiIwToGr?usp=sharing
 
 # course_slide
-- machine_learning_process: https://docs.google.com/presentation/d/e/2PACX-1vQQU-44EGj10qslHixhTUYuAQkIhe7EUMHclrwIjgDO1_rrag5i5B9JowDTWjTOWPMv1ZXHo2MMPur3/pub?start=false&loop=false&delayms=3000
 - under and over fitting: https://docs.google.com/presentation/d/e/2PACX-1vR1oUfW_Vky3gIToqBPj1oGrSZ9RhynVkxL2gmH7UlicxhzYKQoEjTMI0JrNVxChl-saWnVglZQsYEE/pub?start=false&loop=false&delayms=3000
 
 # quiz
